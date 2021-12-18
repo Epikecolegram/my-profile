@@ -1,0 +1,135 @@
+
+image 	{
+	height: 400px;
+	width: 500px;
+	box-shadow: 10px 8px 20px red;
+}
+
+h1, h2, h3, h5{
+	text-align: center;
+	font-family: #6E7076, monospace;
+	color: red;
+}
+
+h1{
+	font-size: 50px;
+	letter-spacing: 10px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+h3, h5{
+	font-size: 30px;
+}
+
+h4{
+	font-size: 20px;
+	color: black;
+}
+
+body	{
+	text-align: center;
+	background: #C70039 ;
+	font-family: TT Norms Pro, monospace;
+	color: #ff0000;
+}
+
+p{
+	margin: 20px;
+	padding: 20px;
+}
+
+.box-page{
+	margin: 100px;
+	padding: 70px;
+	border: solid white 3px;
+	background: black;
+}
+
+.domination{
+	margin: 20px;
+	padding: 20px;
+	border-radius: 30%;
+
+}
+
+.banner-picture{
+	height: 300px;
+}
+
+.card-history{
+	margin: 100px;
+	padding: 70px;
+	border: solid black 3px;
+	background: #FADBD8;
+}
+
+.team{
+	height: 300px;
+	width: 300px;
+}
+
+.card-image{
+	margin: 100px;
+	padding: 70px;
+	border: solid white 3px;
+	background: black;
+}
+
+.card-contact{
+	margin: 100px;
+	padding: 70px;
+	border: solid black 3px;
+	background: #FADBD8;
+}
+
+.logo-tel{
+	text-align: center;
+	height: 50px;
+	width: 50px;
+}
+
+img{
+	height: 300px;
+	transition: transform .1s;
+	border-radius: 10%;
+}
+
+img:hover{
+-ms-transform: scale(1.5); 
+-webkit-transform: scale(1.5); 
+transform: scale(1.5);
+}
+
+.btn1{
+	border: solid red 3px;
+	margin: 10px;
+	padding: 10px;
+	background: black;
+	color: white;
+}
+
+.btn2{
+	border: solid red 3px;
+	margin: 10px;
+	padding: 10px;
+	background: #FADBD8;
+	color: black;
+}
+
+.card-cloture{
+	border: solid white 3px;
+	background: black;
+	color: white;
+	text-align: center;
+}
+
+.fa-wikipedia{
+	background: red;
+	text-align: center;
+	background: black;
+	color: white;
+}
+
